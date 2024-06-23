@@ -1,0 +1,38 @@
+.card {
+    display: flex;
+    background-color: lightblue;
+    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card img {
+    width: 100px;
+}
+
+.cards {
+    margin: 5% 30%;
+}
+
+.unitt-price {
+    margin-left: 150px;
+    
+}
+
+i {
+    cursor: pointer;
+}
+
+.total-price-container {
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+nav li {
+    display: inline;
+    font-size: 130%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color : whitesmoke;
+}
+.navbar {
+    background-color: lightblue;
+}
